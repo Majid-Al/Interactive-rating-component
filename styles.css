@@ -1,0 +1,94 @@
+body {
+  background-color: hsl(216, 12%, 8%) !important ;
+}
+p {
+  font-family: Overpass;
+}
+.big-div {
+  background-color: hsl(214, 33%, 14%);
+  color: aliceblue;
+  border-radius: 1.5em;
+  margin-top: 8%;
+  padding: 3%;
+}
+.logo-div {
+  text-align: center;
+  border-radius: 50%;
+  padding: 4.4px;
+  background-color: hsl(213, 19%, 18%);
+
+  width: 40px;
+  height: 40px;
+}
+.text-align-left {
+  text-align: left;
+}
+.head {
+  font-family: Overpass;
+  color: white;
+  font-weight: 400 !important;
+  font-size: 30px !important;
+}
+.matn {
+  color: hsl(217, 12%, 63%);
+  font-family: Overpass;
+  size: 15px;
+  text-align: left;
+}
+.buttons-div {
+  height: min-content;
+  display: block;
+}
+.rounded-circle {
+  border: none;
+  width: 42px !important;
+  height: 42px;
+  background-color: hsl(213, 19%, 18%);
+  font-family: Overpass;
+  color: hsl(217, 12%, 63%);
+}
+.rounded-circle:hover {
+  color: white;
+  background-color: hsl(25, 97%, 53%);
+}
+.sub-butt {
+  font-family: Overpass;
+  color: white;
+  background-color: hsl(25, 97%, 53%);
+  height: 44px;
+  border: none;
+}
+.selected-butt {
+  background-color: hsl(217, 12%, 63%);
+  color: white;
+}
+.you-select {
+  padding-top: 3px;
+  height: 30px;
+  border: none;
+  background-color: hsl(213, 19%, 18%);
+  color: hsl(25, 97%, 53%);
+  width: 200px;
+  margin-inline: auto;
+  border-radius: 3rem;
+}
+.third-sector-after {
+  color: hsl(217, 12%, 63%);
+  font-size: 15px !important;
+  margin-inline: auto;
+}
+.thank-you-head {
+  color: white;
+  font-weight: 400 !important;
+  font-size: 30px !important;
+  margin-bottom: 10px;
+}
+.back-to-shadows {
+  display: none;
+}
+.first-face {
+  display: block;
+}
+.second-face {
+  display: none;
+}
